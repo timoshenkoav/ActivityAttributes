@@ -6,6 +6,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="TitleText">@string/app_name</item>
     </style>
 
+    <attr name="TitleText" format="reference|string"/>
 </resources>
